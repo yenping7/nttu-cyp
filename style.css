@@ -1,0 +1,85 @@
+body {
+  color: rgb(189, 190, 190);
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  text-indent: 32px;
+  background-color: black;
+}
+#feedback {
+  margin: 0.5rem;
+  color: #3a5f92;
+  text-indent: 60px;
+}
+.for {
+  margin: 0rem 4rem;
+}
+form {
+  text-indent: 0px;
+  font-size: 20px;
+}
+textarea {
+  font-size: 18px;
+}
+button {
+  width: 150px;
+  height: 30px;
+  font-size: 18px;
+}
+button:hover {
+  background-color: #3a5f92;
+  border: 3px solid #568ad3;
+}
+
+a {
+  color: gainsboro;
+  text-decoration: none;
+}
+.hh {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: #ffffff;
+  font-size: 50px;
+}
+.hh:hover {
+  color: #568ad3;
+}
+.ee {
+  float: inline-end;
+}
+.ee:hover {
+  color: #568ad3;
+  font-size: large;
+}
+#pic {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+iframe {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cover,
+#album,
+footer {
+  background-color: #252d39;
+}
+article {
+  padding: 1rem 0rem;
+}
+article > p,
+article > dd,
+article > table {
+  margin: 0rem 2rem;
+}
+li {
+  color: #aac6f3;
+  font-weight: 500;
+  font-size: 20px;
+}
+.music:hover {
+  color: #c7dbfa;
+  font-weight: 600;
+}
