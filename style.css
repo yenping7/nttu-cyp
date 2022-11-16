@@ -26,8 +26,8 @@ button {
   font-size: 18px;
 }
 button:hover {
-  background-color: #3a5f92;
-  border: 3px solid #568ad3;
+  background-color: #568ad3;
+  border: 2px solid #3a5f92;
 }
 
 a {
